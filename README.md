@@ -19,6 +19,16 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **GPU** | Intel UHD Graphics 620 |
 | **RAM** | 8 GB DDR4 |
 
+| What's working? | Y/N |
+| **WIFI** | Y |
+| **BT** | Y |
+| **HDMI** | N |
+| **GPU** | Y | 
+| **KEYBOARD** | Y | 
+
+**update soon**
+
+
 ---
 
 ## 🛠️ Bootloader
