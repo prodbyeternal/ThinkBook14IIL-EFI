@@ -7,40 +7,47 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 ---
 
 ## 🚀 Supported macOS Version
-- **macOS Ventura 13**
+
+* **macOS Ventura 13**
 
 ---
 
 ## 🧩 Hardware Specifications
 
-| Component | Details |
-|----------|--------|
-| **CPU** | Intel Core i5-1035G1 @ 1.0 GHz |
-| **GPU** | Intel UHD Graphics 620 |
-| **RAM** | 8 GB DDR4 |
+| Component | Details                        |
+| --------- | ------------------------------ |
+| **CPU**   | Intel Core i5-1035G1 @ 1.0 GHz |
+| **GPU**   | Intel UHD Graphics 620         |
+| **RAM**   | 8 GB DDR4                      |
 
-| What's working? | Y/N |
-| **WIFI** | Y |
-| **BT** | Y |
-| **HDMI** | N |
-| **GPU** | Y | 
-| **KEYBOARD** | Y | 
+---
 
-**update soon**
+## ✅ What’s working?
 
+| Feature              | Status |
+| -------------------- | ------ |
+| **Wi‑Fi**            | ✅ Yes  |
+| **Bluetooth**        | ✅ Yes  |
+| **HDMI**             | ❌ No   |
+| **GPU Acceleration** | ✅ Yes  |
+| **Keyboard**         | ✅ Yes  |
+
+> 🔄 **Update soon**
 
 ---
 
 ## 🛠️ Bootloader
-- **OpenCore**
+
+* **OpenCore**
 
 ---
 
 ## 👥 Credits
-- **@devbyreqqel**
-- **@prodbyeternal**
+
+* **@devbyreqqel**
+* **@prodbyeternal**
 
 ---
 
-> ⚠️ Disclaimer: This EFI is made for **this exact hardware configuration**.  
+> ⚠️ **Disclaimer**: This EFI is made for **this exact hardware configuration**.
 > If your ThinkBook differs, you’ll need to adjust the config accordingly.
