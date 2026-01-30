@@ -9,6 +9,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 ## 🚀 Supported macOS Version
 
 * **macOS Ventura 13**
+* *Other macOS versions to be tested*
 
 ---
 
@@ -28,15 +29,18 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | -------------------- | ------ |
 | **Wi‑Fi**            | ✅ Yes  |
 | **Bluetooth**        | ✅ Yes  |
-| **HDMI**             | ❌ No   |
 | **GPU Acceleration** | ✅ Yes  |
 | **Keyboard**         | ✅ Yes  |
+| **USB**              | ✅ Yes  |
+| **HDMI**             | ❌ No   |
+| **Touchpad**         | ❌ No   |
+| **Battery Status**   | ❌ No   |
 
-> 🔄 **Update soon**
+> 🔄 **Updates soon**
 
 ---
 
-## 🛠️ Bootloader
+## 🛠️ Bootloader used
 
 * **OpenCore**
 
@@ -51,3 +55,4 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 > ⚠️ **Disclaimer**: This EFI is made for **this exact hardware configuration**.
 > If your ThinkBook differs, you’ll need to adjust the config accordingly.
+> Also, Ice Lake CPU's suck, never doing Ice Lakes again.
