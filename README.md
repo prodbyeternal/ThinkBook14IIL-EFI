@@ -41,8 +41,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 ---
 
-
-> ⚠️ **Disclaimer**: You will need to edit the Info.plist file inside the itlwm.kext file to gain internet access. The file in question is in itlwm.kext/Contents. Change the YOURPASSWORDHERE and YOURWIFINAMEHERE accordingly.
+> [!NOTE]
+> You will need to edit the Info.plist file inside the itlwm.kext file to gain internet access. The file in question is in itlwm.kext/Contents. Change the YOURPASSWORDHERE and YOURWIFINAMEHERE accordingly.
 
 ---
 
@@ -58,7 +58,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 * **@prodbyeternal**
 
 ---
-
-> ⚠️ **Disclaimer**: This EFI is made for **this exact hardware configuration**.
+> [!WARNING]
+> This EFI is made for **this exact hardware configuration**.
 > If your ThinkBook differs, you’ll need to adjust the config accordingly.
 > Also, Ice Lake CPU's suck, never doing Ice Lakes again.
