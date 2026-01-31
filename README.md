@@ -43,6 +43,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 > [!NOTE]
 > You will need to edit the Info.plist file inside the itlwm.kext file to gain internet access. The file in question is in itlwm.kext/Contents. Change the YOURPASSWORDHERE and YOURWIFINAMEHERE accordingly.
+> Or you can use the included itlwmPass.py Wi-Fi injector to edit the kext for you. (Works on Windows, Linux, macOS)
 
 ---
 
