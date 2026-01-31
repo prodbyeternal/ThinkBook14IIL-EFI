@@ -4,7 +4,7 @@ OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Ventura
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
-![Ice Lake CPU](https://github.com/prodbyeternal/ThinkBook14IIL-EFI/blob/main/Zrzut_ekranu_2026-01-31_o_00.09.26.webp?raw=true)
+![Ice Lake CPU](https://github.com/prodbyeternal/ThinkBook14IIL-EFI/blob/main/Ventura.webp?raw=true)
 
 ---
 
