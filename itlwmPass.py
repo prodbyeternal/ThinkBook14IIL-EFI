@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# itlwm Wi-Fi injector by prodbyeternal, 2026.
+
 import os
 import platform
 import plistlib
