@@ -4,14 +4,14 @@ OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Ventura
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
-![Ice Lake CPU](https://github.com/prodbyeternal/ThinkBook14IIL-EFI/blob/main/Ventura.webp?raw=true)
+*Screenshot to be uploaded.*
 
 ---
 
 ## 🚀 Supported macOS Version
 
-* **macOS Ventura 13**
-* *Other macOS versions to be tested*
+* **macOS Tahoe**
+* *Supports from macOS Monterey up to Tahoe*
 
 ---
 
@@ -20,7 +20,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | Component | Details                        |
 | --------- | ------------------------------ |
 | **CPU**   | Intel Core i5-1035G1 @ 1.0 GHz |
-| **GPU**   | Intel UHD Graphics 620         |
+| **GPU**   | Intel Iris Graphics            |
 | **RAM**   | 8 GB DDR4                      |
 
 ---
@@ -34,9 +34,9 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **GPU Acceleration** | ✅ Yes  |
 | **Keyboard**         | ✅ Yes  |
 | **USB**              | ✅ Yes  |
-| **HDMI**             | ❌ No   |
-| **Touchpad**         | ❌ No   |
-| **Battery Status**   | ❌ No   |
+| **Battery Status**   | ✅ Yes  |
+| **HDMI**             | ❌ No, won't be supported. |
+| **Touchpad**         | ❌ No, work in progress.   |
 > 🔄 **Updates soon**
 
 ---
