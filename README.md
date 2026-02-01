@@ -34,7 +34,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **GPU Acceleration** | ✅ Yes  |
 | **Keyboard**         | ✅ Yes  |
 | **USB**              | ✅ Yes  |
-| **Battery Status**   | ✅ YES  |
+| **Battery Status**   | ✅ Yes  |
 | **HDMI**             | ❌ No, won't be supported. |
 | **Touchpad**         | ❌ No, work in progress.   |
 > 🔄 **Updates soon**
