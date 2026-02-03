@@ -10,8 +10,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 ## 🚀 Supported macOS Version
 
-* **macOS ????**
-* *Supports from macOS Monterey up to ????*
+* **macOS Ventura**
+* *Supports from macOS Monterey up to probably Ventura
 
 ---
 
