@@ -4,7 +4,8 @@ OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Ventura
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
-*Screenshot to be uploaded.*
+<img width="1920" height="1080" alt="Ventura2" src="https://github.com/user-attachments/assets/5959c44e-815d-47bd-a511-60eb04b4d689" />
+
 
 ---
 
