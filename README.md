@@ -1,6 +1,6 @@
 # 💻 ThinkBook 14 IIL – OpenCore EFI
 
-OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Ventura 13** 🍎
+OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Sequoia (15)** 🍎
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
@@ -11,8 +11,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 ## 🚀 Supported macOS Version
 
-* **macOS Ventura**
-* *Supports from macOS Monterey up to probably Ventura*
+* **macOS Sequoia**
+* *Supports from macOS Monterey up to.....*
 
 ---
 
@@ -38,13 +38,17 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **Battery Status**   | ✅ Yes  |
 | **HDMI**             | ❌ No, won't be supported. |
 | **Touchpad**         | ❌ No, work in progress.   |
-> 🔄 **Updates soon**
+
 
 ---
 
 > [!NOTE]
 > You will need to edit the Info.plist file inside the itlwm.kext file to gain internet access. The file in question is in itlwm.kext/Contents. Change the YOURPASSWORDHERE and YOURWIFINAMEHERE accordingly.
 > Or you can use the included itlwmPass.py Wi-Fi injector to edit the kext for you. (Works on Windows, Linux)
+
+> [!NOTE2]
+> If you very want to HDMI buy USB3.0 TO HDMI Adaptor with drivers for MacOS.
+
 
 ---
 
